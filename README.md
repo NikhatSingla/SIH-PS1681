@@ -11,6 +11,8 @@ The folder SIH contains the code for the website. To run the application, simply
 
 The folder SIH also contains the weights of the trained model.
 
+Also, the Cryptographic Algorithm folder contains implementation of various Block Ciphers (3DES, AES, etc.), Stream Ciphers (ChaCha20, Salsa20, etc.), Hash Functions (SHA256, MD5, etc.) and Public Key Ciphers (RSA, ECC).
+
 ## Requirements
 
 ### Prerequisites:
