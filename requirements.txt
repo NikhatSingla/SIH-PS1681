@@ -1,3 +1,1 @@
-pycryptodome
-sympy #for RSA
-# hashlib #for JH hash function
+
